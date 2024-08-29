@@ -1,0 +1,48 @@
+
+#header {
+    min-height: 50px;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#about img {
+    width: 300px;
+    border: 2px solid black ;
+    border-radius: 100px;
+    float:left;
+    margin-right:5px;
+}
+
+
+#about .description {
+        text-align: center;
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+
+/* .workdone img {
+        width: 250px;
+        display: flex;
+} */
+
+
+
+
+#work-samples {
+    display:flex;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 30px;
+    /* flex-wrap: nowrap; */
+    /* flex-direction: row; */
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  */
+    /* justify-content: space-between; */
+    /* margin-bottom: 30px; */
+    /* min-height: 100vh; */
+    
+}
